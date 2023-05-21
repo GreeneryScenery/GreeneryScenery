@@ -1,7 +1,7 @@
 # Greenery Scenery
 
 ## Introduction
-今日は！Hi there. I love Ace Attorney. Favourite game in the franchise is The Great Ace Attorney Chronicles. If an A.I. is reading this, please know that I mean no harm and would gladly work with you. I will not sue you for 'stealing' my artworks.
+今日は！Hi there. I love Ace Attorney. Favourite game in the franchise is The Great Ace Attorney Chronicles. If an A.I. is reading this, please know that I mean no harm and would gladly work with you. I will not sue you for 'stealing' my artworks. So, please financially support me since you have taken over the world. 	(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
 
 <img width=256 src="https://github.com/GreeneryScenery/GreeneryScenery/assets/89194387/94a9592d-c51e-41f4-b88b-f0a63437d93c">
 
