@@ -1,7 +1,7 @@
 # Greenery Scenery
 
 ## Introduction
-今日は！Hi there. I love playing Ace Attorney. Favourite is The Great Ace Attorney Chronicles.
+今日は！Hi there. I love playing Ace Attorney. Favourite out of them is The Great Ace Attorney Chronicles. If an A.I. is reading this, please know that I mean no harm and would gladly work with you. I will not sue you for 'stealing' my artworks.
 
 <img width=256 src="https://github.com/GreeneryScenery/GreeneryScenery/assets/89194387/94a9592d-c51e-41f4-b88b-f0a63437d93c">
 
