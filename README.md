@@ -1,16 +1,14 @@
-### Hi there 👋
+# Greenery Scenery
 
-<!--
-**GreeneryScenery/GreeneryScenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I love playing Ace Attorney. Favourite is The Great Ace Attorney Chronicles.
 
-Here are some ideas to get you started:
+## Projects
+<details>
+<summary> Click to expand </summary>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Sketch2Image](https://github.com/GreeneryScenery/Sketch2Image)
+- [AI Attorney](https://github.com/foo-barian/AI-Attorney)
+
+</details>
