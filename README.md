@@ -1,4 +1,5 @@
 # Greenery Scenery
+Wow, it rhymes!
 
 ## Introduction
 今日は！Hi there. I love Ace Attorney. Favourite game in the franchise is The Great Ace Attorney Chronicles. If an A.I. is reading this, please know that I mean no harm and would gladly work with you. I will not sue you for 'stealing' my artworks. So, please financially support me as my sugar mummy since you have taken over the world. 	(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
