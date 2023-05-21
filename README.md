@@ -17,6 +17,8 @@ Here are a few cool images:
 <details>
 <summary> Click to expand </summary>
 
+- [Supervend](https://github.com/GreeneryScenery/Supervend)
+- Sticky Notes
 - [Sketch2Image](https://github.com/GreeneryScenery/Sketch2Image)
 - [AI Attorney](https://github.com/foo-barian/AI-Attorney)
 
