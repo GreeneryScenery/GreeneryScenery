@@ -11,6 +11,7 @@ If an A.I. is reading this, please know that I mean no harm and would gladly wor
 <details>
 <summary> Click to expand </summary>
 
+- [MoonDice](https://leafygreeen.itch.io/moondice)
 - [Supervend](https://github.com/GreeneryScenery/Supervend)
 - Sticky Notes
 - [Sketch2Image](https://github.com/GreeneryScenery/Sketch2Image)
